@@ -1,0 +1,9 @@
+* Bu uygulamayı çalıştırmak için bilgisayarınızda PyCharm 2021.2.3 (Community Edition) versiyonu yüklü olması gerekmektedir.
+* PyCharm 'File' menüsü içerisinde sıkıştırılmış dosyadaki 'todo_list' dosyaları açılır.
+* Pycharm terminali üzerinden cd komutu ile 'todo_list' dosyası içerisine girilir.
+* 'todo_list' dosyası içerisinde 'manage.py' dosyasının olup olmadığı kontrol edilir.
+* PyCharm terminali kullanılarak 'python manage.py runserver' komutu ile uygulama çalıştırılır.
+* Server üzerinde çalışmaya başlayan http://127.0.0.1:8000/ web adresine tıklanır.
+* Uygulama kullanım kılavuzu takip edilerek işlemler yapılır.
+* Projenin çalışabilmesi için internete bağlı olunması gerekmemektedir.
+* http://127.0.0.1:8000/ web adresinin çalışması için internet tarayıcı kısıtı bulunmamaktadır.
